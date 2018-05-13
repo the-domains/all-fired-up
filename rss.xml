@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[all fired up]]></title>
+        <description><![CDATA[all fired up]]></description>
+        <link>https://thegrid.ai/all-fired-up/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 May 2018 20:30:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/all-fired-up/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc25d06c-1d01-4769-949b-8f8fecfe5810.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25949d5f-744d-4515-9413-948129eeab89.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8231485c-5ece-47f5-a81e-573cede0ac5f.jpg">]]></description>
+            <link>https://thegrid.ai/all-fired-up/a9fdfdf2-b61b-4174-b0c1-4cbcbd5a3c51/index.html</link>
+            <guid isPermaLink="false">a9fdfdf2-b61b-4174-b0c1-4cbcbd5a3c51</guid>
+            <pubDate>Sun, 13 May 2018 20:30:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
