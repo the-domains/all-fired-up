@@ -1,0 +1,23 @@
+name: all fired up
+analytics: {}
+content_rating:
+  adult: false
+github: true
+description: >-
+  lets create a meaningful memory out of clay. Ornaments, bowls, cups, almost
+  anything you can imagine. What memory will you commemorate?
+opengraph: {}
+title: all fired up
+author:
+  email: allfiredup@mail.com
+color:
+  lightness: 0.09565276049441955
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.3800960633391738
+  brandStrength: 0.5078770179552671
+  rhythmicContrast: 0.5902491639345533
