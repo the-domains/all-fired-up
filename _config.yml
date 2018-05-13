@@ -9,6 +9,7 @@ description: >-
 opengraph: {}
 title: all fired up
 author:
+  name: carin sundell
   email: allfiredup@mail.com
 color:
   lightness: 0.09565276049441955
